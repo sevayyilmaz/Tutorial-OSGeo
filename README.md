@@ -1,2 +1,4 @@
 # Tutorial-OSGeo
-link: https://sevay.herokuapp.com/
+Heroku URL : https://sevay.herokuapp.com/
+Syncthing ID (PC): GDNFCVJ-NJL36UC-VHHBNB2-ISETMZ5-RKRAMHX-WLXIDUQ-QPG42BY-J2BRTAZ
+Syncthing ID :54JAGSB-HBMLDMR-MINTJEB-GWDKWXI-FCBZQRP-YGK5JOZ-7SKEIGR-VI76UAM
